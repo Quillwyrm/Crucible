@@ -1,4 +1,3 @@
-
 ![Logo](logo.png)
 
 A minimalist toolkit for game development with **LÖVE**.
