@@ -17,6 +17,6 @@ Require only what you need:
 ```lua
 local VecTools = require("crucible.vectools")
 local HitShapes = require("crucible.hitshapes")
-
+```
 ###License
 - MIT License — see LICENSE file
