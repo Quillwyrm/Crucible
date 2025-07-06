@@ -1,4 +1,7 @@
+<p align="center">
 ![Logo](logo.png)
+</p>
+
 
 A minimalist toolkit for game development with **LÖVE**.
 >FORGE WITH LÖVE
