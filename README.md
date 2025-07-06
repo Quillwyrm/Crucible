@@ -18,6 +18,6 @@ Require only what you need:
 local VecTools = require("crucible.vectools")
 local HitShapes = require("crucible.hitshapes")
 ```
--
-##License
+
+## License
 - MIT License — see LICENSE file
