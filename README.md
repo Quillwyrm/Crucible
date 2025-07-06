@@ -1,7 +1,7 @@
 
 ![image](logo.png)
 
-# FORGE WITH LÖVE
+### FORGE WITH LÖVE
 
 A minimalist toolkit for game development with **LÖVE**.
 
@@ -20,6 +20,7 @@ Require only what you need:
 ```lua
 local VecTools = require("crucible.vectools")
 local HitShapes = require("crucible.hitshapes")
+```
 
-###License
+### License
 - MIT License — see LICENSE file
