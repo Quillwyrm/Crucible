@@ -1,0 +1,6 @@
+Timer module:
+
+Timer.after(seconds, func)
+Timer.every(seconds, func, [count])
+Timer.cancel(func)         -- optional
+Timer.update(dt)           -- call this in love.update
