@@ -1,9 +1,9 @@
 
 ![image](logo.png)
-### FORGE WITH LÖVE
+
+## FORGE WITH LÖVE
 
 A minimalist toolkit for game development with **LÖVE**.
-
 
 ## Modules
 
