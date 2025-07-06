@@ -1,8 +1,9 @@
 
-![Logo](logo.png)
+![image](logo.png)
+
+## FORGE WITH LÖVE
 
 A minimalist toolkit for game development with **LÖVE**.
->FORGE WITH LÖVE
 
 ## Modules
 
@@ -18,6 +19,7 @@ Require only what you need:
 ```lua
 local VecTools = require("crucible.vectools")
 local HitShapes = require("crucible.hitshapes")
+```
 
-###License
+### License
 - MIT License — see LICENSE file
