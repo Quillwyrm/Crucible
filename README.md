@@ -1,8 +1,7 @@
-<p align="center">
-  
-![Logo](logo.png)
 
-</p>
+![image](logo.png)
+
+
 
 
 A minimalist toolkit for game development with **LÖVE**.
